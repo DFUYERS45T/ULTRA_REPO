@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.collection {
+    background-color: rgba(17, 32, 194, 0.718);
+    
+}
+
+.uzbek {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.uzb:hover .dropdawn {
+    display: block;
+}
+
+
+
+
+
+
+
+
+    
